@@ -5,8 +5,8 @@
  * @link       http://example.com
  * @since      1.0.0
  *
- * @package    FunctionsPhp
- * @subpackage FunctionsPhp/Includes/Theme
+ * @package    Deneme
+ * @subpackage Deneme/Includes/Theme
  */
 
 namespace Deneme\Includes;

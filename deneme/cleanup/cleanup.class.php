@@ -5,8 +5,8 @@
  * @link       http://example.com
  * @since      1.0.0
  *
- * @package    FunctionsPhp
- * @subpackage FunctionsPhp/CleanUp
+ * @package    Deneme
+ * @subpackage Deneme/CleanUp
  */
 
 namespace Deneme\CleanUp;

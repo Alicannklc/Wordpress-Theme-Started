@@ -5,8 +5,8 @@
  * @link       http://example.com
  * @since      1.0.0
  *
- * @package    FunctionsPhp
- * @subpackage FunctionsPhp/Admin
+ * @package    Deneme
+ * @subpackage Deneme/Admin
  */
 
 namespace Deneme\Admin;
@@ -18,7 +18,7 @@ use \Deneme\Includes\Theme as Theme;
 class Admin extends Theme {
 
 
-    public function __construct() { 
+    public function __construct() {
 
         parent::__construct();
 

@@ -2,8 +2,8 @@
 /**
  * Register all actions and filters for the theme.
  *
- * @package    FunctionsPhp
- * @subpackage FunctionsPhp/Includes/Loader
+ * @package    Deneme
+ * @subpackage Deneme/Includes/Loader
  */
 
 namespace Deneme\Includes;

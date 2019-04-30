@@ -5,8 +5,8 @@
  * @link       http://example.com
  * @since      1.0.0
  *
- * @package    FunctionsPhp
- * @subpackage FunctionsPhp/Includes/Autoloader
+ * @package    Deneme
+ * @subpackage Deneme/Includes/Autoloader
  */
 
 namespace Deneme\includes;
@@ -82,4 +82,3 @@ class Autoloader {
     }
 
 }
-

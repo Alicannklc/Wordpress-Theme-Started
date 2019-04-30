@@ -5,8 +5,8 @@
  * @link       http://example.com
  * @since      1.0.0
  *
- * @package    FunctionsPhp
- * @subpackage FunctionsPhp/FrontEnd
+ * @package    Deneme
+ * @subpackage Deneme/FrontEnd
  */
 
 namespace Deneme\FrontEnd;
@@ -111,7 +111,7 @@ private function actionAfterSetup($function)
     {
         $this->actionEnqueueScripts(function() use ($handle){
             wp_dequeue_style($handle);
-            wp_deregister_style($handle); 
+            wp_deregister_style($handle);
         });
         return $this;
     }
@@ -119,7 +119,7 @@ private function actionAfterSetup($function)
     {
         $this->actionEnqueueScripts(function() use ($handle){
             wp_dequeue_script($handle);
-            wp_deregister_script($handle);   
+            wp_deregister_script($handle);
         });
         return $this;
     }
